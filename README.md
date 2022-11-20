@@ -1,6 +1,6 @@
 # 42cursus-00-Libft
 ## :books: About the project 
-The aim of this project is to code a C library regrouping usual functions that you'll be allowed to use in all your other projects.
+This project aims to write its own library: a collection of functions this will be used in the course of other projects.
 
 ## Score
 ![thumbnail_IMG_8925](https://user-images.githubusercontent.com/106436743/202926390-9581e04f-7e5f-41fc-9e09-f2760ed2311e.jpg)
@@ -63,6 +63,7 @@ The library is written in C language and thus needs the **-cc** compiler and som
 1. Compiling the library
 
          $ make
+         $ make bonus
 
 ![Screenshot from 2022-11-18 14-25-14](https://user-images.githubusercontent.com/106436743/202926806-bcb5178e-7704-4701-be97-3bea2bd2304f.png)
 
