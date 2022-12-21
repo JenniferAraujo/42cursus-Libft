@@ -1,6 +1,6 @@
 # 42cursus-00-Libft
 ## :books: About the project 
-This project aims to write its own library: a collection of functions this will be used in the course of other projects.
+This project aims to write it's own library: a collection of functions this will be used in the course of other projects.
 
 ## Score
 ![thumbnail_IMG_8925](https://user-images.githubusercontent.com/106436743/202926390-9581e04f-7e5f-41fc-9e09-f2760ed2311e.jpg)
